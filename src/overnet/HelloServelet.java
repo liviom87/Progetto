@@ -30,5 +30,5 @@ public class HelloServelet extends HttpServlet {
 		out.print("<hl>Hello Servlet</h1>");
 		out.print("</body></html>");
 	}
-
+// modificato da francesca
 }
