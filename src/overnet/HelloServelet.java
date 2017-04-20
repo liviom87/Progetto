@@ -25,7 +25,7 @@ public class HelloServelet extends HttpServlet {
 		
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
-		
+		//CIAO MONDO
 		out.print ("<html><body>");
 		out.print("<hl>Hello Servlet</h1>");
 		out.print("</body></html>");
